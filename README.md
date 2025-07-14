@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Addmingbig2
 
 -    https://github.com/Addmingbig2
+- repo org =https://github.com/Duckyfamily/demo-repository.git
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
