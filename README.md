@@ -25,6 +25,15 @@ git branch -M main
 git push -u origin main
 
 
+- https://github.com/enterprises/Introvertmime.git
+- https://m.facebook.com/autoai1
+- https://github.com/Addmingbig2/demo-repository.git
+- https://www.site-wzi7oeiqz.godaddysites.com
+- wutthingameye@gmail.com 
+- modelmimee@gmail.com 
+- wutt19901990@gmail.com
+- wutthingameye@icloud.com
+
 
 
 
