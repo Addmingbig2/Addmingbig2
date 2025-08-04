@@ -49,5 +49,6 @@ python3 main.py
 - wutthingameye@icloud.com
 
 
-
-
+Permanent links / routes 
+- https://github.com/Addmingbig2/Addmingbig2/tree/6c65918884cd962056f5a8ef51bc3df169d0816c
+- https://api.github.com/users/Duckyfamily/repos | jq
